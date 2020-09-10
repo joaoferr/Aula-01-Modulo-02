@@ -1,7 +1,5 @@
 # # Trabalho Prático do Módulo 2
 
-[![N|Solid](https://nodejs.org/static/images/logo.svg)]
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
   - Criação de um projeto Node.js.
